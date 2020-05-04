@@ -1,5 +1,5 @@
 # DM_Romantic_relationship_effecting_grades
-##CIS 9660 - Data Mining Class Project
+## CIS 9660 - Data Mining Class Project
 
 # New York City Parking Violations
 [![GitHub stars](https://img.shields.io/github/stars/YuboC/DM_Romantic_relationship_effecting_grades.svg?style=flat&label=Star)](https://github.com/YuboC/STA9760-NewYorkPV/stargazers)
